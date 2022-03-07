@@ -41,7 +41,6 @@ An item is placed in a bucket corresponding to the integer represented by the bi
 |     |     | 18  | 43  | 60  | 5   |     | 15  |
 |     |     | 26  | 27  |     |     |     |     |
 |     |     | 2   |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |
 
 ### New Sequence: [18, 26, 2, 43, 27, 60, 5, 15]
 
@@ -67,7 +66,5 @@ An item is placed in a bucket corresponding to the integer represented by the bi
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2   | 15  | 18  | 26  |     | 43  |     | 60  |
 | 5   |     |     | 27  |     |     |     |     |
-|     |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |
 
 ### Final (Sorted) Sequence: [2, 5, 15, 18, 26, 27, 43, 60]
