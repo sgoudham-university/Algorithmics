@@ -20,9 +20,8 @@ Binary encodings are given by:
 | 2     | 000010        |
 
 And given: 
-
-**m = 6** 
-**b = 3**
+- **m = 6**
+- **b = 3**
 
 This means that in **Radix Sort**, we have: 
 
